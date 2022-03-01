@@ -1,0 +1,10 @@
+id: 9628d1a6ad8b47ae88c0a4e4f349d681
+annotation_type: index
+revision: '00001'
+annotations:
+  2f86a2c4094f47e1b963c48567d19f9e:
+    work_id: W0FE94419
+    span:
+      vol: Title
+      start: 0
+      end: 76643
